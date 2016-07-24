@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">S02A3CreditCardAppUI</string>
+    <string name="heading_activity_main">Credit Card Helper</string>
+    <string name="balanceText">Enter Card Balance ($)</string>
+    <string name="interestText">Enter Yearly Interest Rate (%)</string>
+    <string name="minPaymentText">Enter Minimum Payment ($)</string>
+
+    <string name="finalBalanceText">Final Card Balance ($)</string>
+    <string name="monthsLeftText">Months Remaining</string>
+    <string name="interestToPayText">Interest Paid Will Be ($)</string>
+
+    <string name="computeButton">COMPUTE</string>
+    <string name="clearButton">CLEAR</string>
+</resources>
